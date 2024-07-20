@@ -1,5 +1,7 @@
-
+<div align ="center>
+     
 ![download](https://github.com/user-attachments/assets/3028e968-c134-4623-9dbb-e9ed79dbb869)
+     </div>
 
 🙋 About me
 - 단순히 일을 하는 것이 아닌 어떻게 
