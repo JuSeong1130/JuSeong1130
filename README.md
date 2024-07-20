@@ -1,7 +1,8 @@
-<div align ="center>
+
      
-![download](https://github.com/user-attachments/assets/3028e968-c134-4623-9dbb-e9ed79dbb869)
-     </div>
+![Untitled design](https://github.com/user-attachments/assets/2886d5c9-c83e-4aba-b750-431eba6d9bfb)
+
+
 
 🙋 About me
 - 단순히 일을 하는 것이 아닌 어떻게 
