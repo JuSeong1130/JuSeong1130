@@ -1,5 +1,3 @@
-  
-![JuSeong Github (1)](https://github.com/user-attachments/assets/c92ef8ac-04a4-476d-b876-77cfe9779941)
 
 ![download](https://github.com/user-attachments/assets/3028e968-c134-4623-9dbb-e9ed79dbb869)
 
