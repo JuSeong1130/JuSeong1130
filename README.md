@@ -1,4 +1,5 @@
 ## Hi there 👋
+![JuSeong Github](https://github.com/user-attachments/assets/661ff69b-4808-4582-b048-2995dd7a4acf)
 
 <!--
 **JuSeong1130/JuSeong1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
