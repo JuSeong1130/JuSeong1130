@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align="center">
+  ## Hi there 👋
 ![JuSeong Github](https://github.com/user-attachments/assets/661ff69b-4808-4582-b048-2995dd7a4acf)
 ![JuSeong Github (1)](https://github.com/user-attachments/assets/c92ef8ac-04a4-476d-b876-77cfe9779941)
 
@@ -15,6 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsmoon1130)](https://solved.ac/jsmoon1130/)
+</div>
+
+
+
 
