@@ -27,9 +27,7 @@ Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsmoon1130)](https://solved.ac/jsmoon1130/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuSeong1130&show_icons=true&theme=radical)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsmoon1130)](https://solved.ac/jsmoon1130/)
 
 
